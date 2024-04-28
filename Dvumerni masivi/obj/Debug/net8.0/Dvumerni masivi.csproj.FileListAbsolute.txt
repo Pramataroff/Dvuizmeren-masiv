@@ -1,0 +1,14 @@
+E:\visual studio\Dvumerni masivi\Dvumerni masivi\bin\Debug\net8.0\Dvumerni masivi.exe
+E:\visual studio\Dvumerni masivi\Dvumerni masivi\bin\Debug\net8.0\Dvumerni masivi.deps.json
+E:\visual studio\Dvumerni masivi\Dvumerni masivi\bin\Debug\net8.0\Dvumerni masivi.runtimeconfig.json
+E:\visual studio\Dvumerni masivi\Dvumerni masivi\bin\Debug\net8.0\Dvumerni masivi.dll
+E:\visual studio\Dvumerni masivi\Dvumerni masivi\bin\Debug\net8.0\Dvumerni masivi.pdb
+E:\visual studio\Dvumerni masivi\Dvumerni masivi\obj\Debug\net8.0\Dvumerni masivi.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\Dvumerni masivi\Dvumerni masivi\obj\Debug\net8.0\Dvumerni masivi.AssemblyInfoInputs.cache
+E:\visual studio\Dvumerni masivi\Dvumerni masivi\obj\Debug\net8.0\Dvumerni masivi.AssemblyInfo.cs
+E:\visual studio\Dvumerni masivi\Dvumerni masivi\obj\Debug\net8.0\Dvumerni masivi.csproj.CoreCompileInputs.cache
+E:\visual studio\Dvumerni masivi\Dvumerni masivi\obj\Debug\net8.0\Dvumerni masivi.dll
+E:\visual studio\Dvumerni masivi\Dvumerni masivi\obj\Debug\net8.0\refint\Dvumerni masivi.dll
+E:\visual studio\Dvumerni masivi\Dvumerni masivi\obj\Debug\net8.0\Dvumerni masivi.pdb
+E:\visual studio\Dvumerni masivi\Dvumerni masivi\obj\Debug\net8.0\Dvumerni masivi.genruntimeconfig.cache
+E:\visual studio\Dvumerni masivi\Dvumerni masivi\obj\Debug\net8.0\ref\Dvumerni masivi.dll

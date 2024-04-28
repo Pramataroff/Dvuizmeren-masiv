@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dvumerni masivi/1.0.0": {
+        "runtime": {
+          "Dvumerni masivi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dvumerni masivi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

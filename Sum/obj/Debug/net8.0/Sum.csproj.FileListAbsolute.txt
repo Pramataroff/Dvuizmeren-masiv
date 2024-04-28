@@ -1,0 +1,14 @@
+E:\visual studio\Dvumerni masivi\Sum\bin\Debug\net8.0\Sum.exe
+E:\visual studio\Dvumerni masivi\Sum\bin\Debug\net8.0\Sum.deps.json
+E:\visual studio\Dvumerni masivi\Sum\bin\Debug\net8.0\Sum.runtimeconfig.json
+E:\visual studio\Dvumerni masivi\Sum\bin\Debug\net8.0\Sum.dll
+E:\visual studio\Dvumerni masivi\Sum\bin\Debug\net8.0\Sum.pdb
+E:\visual studio\Dvumerni masivi\Sum\obj\Debug\net8.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\Dvumerni masivi\Sum\obj\Debug\net8.0\Sum.AssemblyInfoInputs.cache
+E:\visual studio\Dvumerni masivi\Sum\obj\Debug\net8.0\Sum.AssemblyInfo.cs
+E:\visual studio\Dvumerni masivi\Sum\obj\Debug\net8.0\Sum.csproj.CoreCompileInputs.cache
+E:\visual studio\Dvumerni masivi\Sum\obj\Debug\net8.0\Sum.dll
+E:\visual studio\Dvumerni masivi\Sum\obj\Debug\net8.0\refint\Sum.dll
+E:\visual studio\Dvumerni masivi\Sum\obj\Debug\net8.0\Sum.pdb
+E:\visual studio\Dvumerni masivi\Sum\obj\Debug\net8.0\Sum.genruntimeconfig.cache
+E:\visual studio\Dvumerni masivi\Sum\obj\Debug\net8.0\ref\Sum.dll

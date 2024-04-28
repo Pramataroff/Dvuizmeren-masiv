@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual studio\\Dvumerni masivi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFBBF3F-5BEA-4F62-8DA6-4CC67387A987}|Lotariq\\Lotariq.csproj|e:\\visual studio\\dvumerni masivi\\lotariq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFBBF3F-5BEA-4F62-8DA6-4CC67387A987}|Lotariq\\Lotariq.csproj|solutionrelative:lotariq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31604347-1D62-4358-B74D-EF48E10A4C37}|Min koloni\\Min koloni.csproj|e:\\visual studio\\dvumerni masivi\\min koloni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31604347-1D62-4358-B74D-EF48E10A4C37}|Min koloni\\Min koloni.csproj|solutionrelative:min koloni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B31362-40C3-4B69-B06E-CD63FC67DD9A}|Sum\\Sum.csproj|e:\\visual studio\\dvumerni masivi\\sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B31362-40C3-4B69-B06E-CD63FC67DD9A}|Sum\\Sum.csproj|solutionrelative:sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74307BA4-C1BB-400A-9088-3994FB5749AD}|Dvumerni masivi\\Dvumerni masivi.csproj|e:\\visual studio\\dvumerni masivi\\dvumerni masivi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74307BA4-C1BB-400A-9088-3994FB5749AD}|Dvumerni masivi\\Dvumerni masivi.csproj|solutionrelative:dvumerni masivi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\visual studio\\Dvumerni masivi\\Lotariq\\Program.cs",
+              "RelativeDocumentMoniker": "Lotariq\\Program.cs",
+              "ToolTip": "E:\\visual studio\\Dvumerni masivi\\Lotariq\\Program.cs",
+              "RelativeToolTip": "Lotariq\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAYwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:27:42.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\visual studio\\Dvumerni masivi\\Min koloni\\Program.cs",
+              "RelativeDocumentMoniker": "Min koloni\\Program.cs",
+              "ToolTip": "E:\\visual studio\\Dvumerni masivi\\Min koloni\\Program.cs",
+              "RelativeToolTip": "Min koloni\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:32:11.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\visual studio\\Dvumerni masivi\\Sum\\Program.cs",
+              "RelativeDocumentMoniker": "Sum\\Program.cs",
+              "ToolTip": "E:\\visual studio\\Dvumerni masivi\\Sum\\Program.cs",
+              "RelativeToolTip": "Sum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:30:48.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\visual studio\\Dvumerni masivi\\Dvumerni masivi\\Program.cs",
+              "RelativeDocumentMoniker": "Dvumerni masivi\\Program.cs",
+              "ToolTip": "E:\\visual studio\\Dvumerni masivi\\Dvumerni masivi\\Program.cs",
+              "RelativeToolTip": "Dvumerni masivi\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:21:50.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
